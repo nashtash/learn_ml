@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Post"
 layout: category
 permalink: /research/
 taxonomy: Publications
