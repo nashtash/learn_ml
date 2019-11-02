@@ -60,9 +60,9 @@ author:
 
 footer:
   links:
-    - label: "ResearchGate"
-      icon: "ai ai-fw ai-researchgate-square"
-      url: "https://www.researchgate.net/profile/Jakob_Sablowski"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nashtash"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jsablowski"
