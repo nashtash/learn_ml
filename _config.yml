@@ -16,19 +16,19 @@
 locale                  : "en-US"
 title                   : "dropwise"
 masthead_title          : "Home"
-description             : "A personal science blog about dropwise condensation research, thermal engineering and open science."
-name                    : "Jakob Sablowski"   
-email                   : jsablowski@mailbox.org
-twitter_username        : JSablowski
-github_username         : JSablowski
-url                     : "https://jsablowski.github.io"
+description             : "A personal tutorial blog about interpretable machine learning."
+name                    : "Natalie Sablowski"   
+email                   : natalie@sablowski.de
+twitter_username        : NA7AL13
+github_username         : nashtash
+url                     : "https://nashtash.github.io/learn_ml/"
 minimal_mistakes_skin   : default
 search                  : true
 
 # Build settings
 markdown                : kramdown
 remote_theme            : mmistakes/minimal-mistakes
-repository              : "jsablowski/JSablowski.github.io"
+repository              : "nashtash/learn_ml"
 # Outputting
 permalink               : /:categories/:title/
 paginate                : 5 # amount of posts to show
@@ -37,7 +37,7 @@ timezone                : Europe/Berlin  # https://en.wikipedia.org/wiki/List_of
 
 # social sharing
 twitter:
-  username              : "jsablowski"
+  username              : "NA7AL13"
 og_image                : /assets/images/drop-logo.png
 social:
   type                  : Person
