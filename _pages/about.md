@@ -2,8 +2,20 @@
 permalink: /about/
 title: "About"
 ---
-I'm a researcher/PhD student at the TU Dresden [Institute of Process Engineering and Environmental Technology](https://tu-dresden.de/ing/maschinenwesen/ifvu). My research is focused on enhancing heat transfer via functionalized surfaces with special wettability. 
+I'm a data journalist and M.A. student at the [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1). My research is focused on the intersection of Digital Humanities (DH) and Eastern European History (EEH). 
 
-As a researcher, I have worked on projects about dropwise condensation of water/steam, fouling resistant heat exchanger surfaces, and energy optimization of industrial processes.
+This blog pursues the idea of making Machine Learning easily accessible to many. We will mainly work with the programming language R in the environment of Rstudio. 
+Here you can [download the software](https://rstudio.com/products/rstudio/download/).
 
-My current research project explores dropwise condensation of non-aqueous fluids. It is based on functionalized surfaces described in my latest paper: [Electrodeposited metal-organic framework films as self-assembled hierarchically superstructured supports for stable omniphobic surface coatings](https://www.nature.com/articles/s41598-018-33542-4). 
+## Here is a list of resources that will be used in this blog and are helpful to dive into machine learning.
+
+I. H. Witten and Eibe Frank. Data Mining. 2nd ed. Practical Machine
+Learning Tools and Techniques. Elsevier, Sept. 2005
+
+Christopher D. Manning and Hinrich Schütze. Foundations of Statistical
+Natural Language Processing. Cambridge, Massachusetts and London,
+England: MIT Press, 1999
+
+[Christoph Molnar. Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+
+[Vincent Ng: Machine Learning, Coursera](https://www.coursera.org/learn/machine-learning)
