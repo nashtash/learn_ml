@@ -41,18 +41,16 @@ twitter:
 og_image                : /assets/images/drop-logo.png
 social:
   type                  : Person
-  name                  : Jakob Sablowski
+  name                  : Natalie Sablowski
   links: 
-    - "https://twitter.com/jsablowski"
-    - "https://www.researchgate.net/profile/Jakob_Sablowski"
-    - "https://orcid.org/0000-0002-9530-9005"
+    - "https://twitter.com/NA7AL13"
     - "https://github.com/jsablowski"
 
 
 author:
-  name                  : "Jakob Sablowski"
+  name                  : "Natalie Sablowski"
   avatar                : "/assets/images/natalie-sablowski.jpg"
-  bio                   : "PhD student researching dropwise condensation at TU Dresden."
+  bio                   : "Data journalist and M.A. student researching intersections between DH and EEH at UzK."
   links:
     - label             : "TU Dresden"
       icon              : "fas fa-fw fa-university"
