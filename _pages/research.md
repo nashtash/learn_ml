@@ -1,11 +1,11 @@
 ---
 title: "Post"
 layout: category
-permalink: /research/
+permalink: /tutorial/
 taxonomy: Publications
 entries_layout: grid
 classes: wide
 ---
-My current research project is about enhancing the condensation heat transfer of non-aqueous fluids. Please have a look at the [project page](https://www.researchgate.net/project/Dropwise-condensation-of-low-surface-tension-fluids) on ResearchGate for more information.
+This tutorial about Interpretable Machine Learning is a general introduction to the methods of Machine Learning and how we can make the models of machine learning systems understandable to humans.
 
-## Publications
+## Tutorials
