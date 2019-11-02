@@ -45,28 +45,17 @@ social:
   links: 
     - "https://twitter.com/NA7AL13"
     - "https://github.com/jsablowski"
-
-
 author:
   name                  : "Natalie Sablowski"
   avatar                : "/assets/images/natalie-sablowski.jpg"
   bio                   : "Data journalist and M.A. student researching intersections between DH and EEH at UzK."
   links:
-    - label             : "TU Dresden"
-      icon              : "fas fa-fw fa-university"
-      url               : "https://tu-dresden.de/ing/maschinenwesen/ifvu"  
-    - label             : "ResearchGate"
-      icon              : "ai ai-fw ai-researchgate-square"
-      url               : "https://www.researchgate.net/profile/Jakob_Sablowski"
     - label             : "Twitter"
       icon              : "fab fa-fw fa-twitter-square"
-      url               : "https://twitter.com/jsablowski"
-    - label             : "ORCID"
-      icon              : "ai ai-fw ai-orcid"
-      url               : "https://orcid.org/0000-0002-9530-9005"
+      url               : "https://twitter.com/NA7AL13"
     - label             : "GitHub"
       icon              : "fab fa-fw fa-github"
-      url               : "https://github.com/jsablowski"
+      url               : "https://github.com/nashtash"
 
 
 footer:
