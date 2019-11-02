@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                  : "en-US"
-title                   : "dropwise"
+title                   : "learn ml"
 masthead_title          : "Home"
 description             : "A personal tutorial blog about interpretable machine learning."
 name                    : "Natalie Sablowski"   
