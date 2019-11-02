@@ -44,7 +44,7 @@ social:
   name                  : Natalie Sablowski
   links: 
     - "https://twitter.com/NA7AL13"
-    - "https://github.com/jsablowski"
+    - "https://github.com/nashtash"
 author:
   name                  : "Natalie Sablowski"
   avatar                : "/assets/images/natalie-sablowski.jpg"
@@ -65,7 +65,7 @@ footer:
       url: "https://github.com/nashtash"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jsablowski"
+      url: "https://twitter.com/NA7AL13"
 
       
 include:
