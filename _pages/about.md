@@ -7,7 +7,7 @@ I'm a data journalist and M.A. student at the [University of Cologne](https://ww
 This blog pursues the idea of making Machine Learning easily accessible to many. We will mainly work with the programming language R in the environment of Rstudio. 
 Here you can [download the software](https://rstudio.com/products/rstudio/download/).
 
-## Here is a list of resources that will be used in this blog and are helpful to dive into machine learning.
+# To understand ML, I recommend to read about it along side the tutorial. This is a list of resources that we'll use in this blog. 
 
 I. H. Witten and Eibe Frank. Data Mining. 2nd ed. Practical Machine
 Learning Tools and Techniques. Elsevier, Sept. 2005
