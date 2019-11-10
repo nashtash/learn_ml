@@ -1,0 +1,13 @@
+label,f1,f2,f3,c
+7clubs,y,b,o,clubs
+Aspades,n,b,f,spades
+Qspades,n,b,f,spades
+Kspades,n,b,f,spades
+Jspades,n,b,f,spades
+3spades,y,b,o,spades
+5diamond,y,r,o,diamond
+8diamond,y,r,e,diamond
+7diamond,y,r,o,diamond
+3hearts,y,r,o,hearts
+7hearts,y,r,o,hearts
+5hearts,y,r,o,hearts
