@@ -19,9 +19,8 @@ The Manjaro version of Linux Arch follows the KISS-principle. Where as KISS stan
 **Create Bootable USB Drive Using dd Command**
 
 First you need a little software called [dd](http://www.chrysocome.net/downloads/dd-0.5.zip) that will help us to set up a bootable USB. After you downloaded it, make sure that you have the dd.exe in the same directory as the Manjore ISO image.
-Open the commandline with **cmd** and navigate with **cd**[PATH] command to the directory with the dd.exe file.
-`cd documents/linux`
-
+Open the commandline with **cmd** and navigate with `cd [PATH]` command to the directory with the dd.exe file.
+`cd documents/linux` then type `ren dd.exe dd-removeable.exe` and press Enter. This will restrict dd to removable drive types, such as USB drives, to prevent accidents. 
 
 
 
