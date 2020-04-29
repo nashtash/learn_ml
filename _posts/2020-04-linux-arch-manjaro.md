@@ -17,7 +17,7 @@ This post provides a installation guide of Linux Arch Manjaro.
 The Manjaro version of Linux Arch follows the KISS-principle. Where as KISS stands for Keep It Simple Supid. With Manjaro we don't need to configurate much. Most of the configuration is running smoothly in the background.
 
 
-![Machine Learning](https://github.com/nashtash/learn_ml/blob/master/assets/blog/2019_11_01/5Q5OC.png?raw=true)
+![Linux](https://github.com/nashtash/learn_ml/blob/master/assets/images/linux.jpg?raw=true)
 
 
 In the least complex sense, ML is a method of computer data analysis that learns from its own "experience". Once a machine learning algorithm recognizes what specific patterns look like, it can apply the knowledge on a vast scale.
