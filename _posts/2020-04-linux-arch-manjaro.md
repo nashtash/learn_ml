@@ -16,6 +16,12 @@ This post provides a installation guide of Linux Arch Manjaro.
 
 The Manjaro version of Linux Arch follows the KISS-principle. Where as KISS stands for Keep It Simple Supid. With Manjaro we don't need to configurate much. Most of the configuration is running smoothly in the background.
 
+**Create Bootable USB Drive Using dd Command**
+
+First you need a little software called ![**dd**](http://www.chrysocome.net/downloads/dd-0.5.zip) that will help us to set up a bootable USB. After you downloaded it, make sure that you have the dd.exe in the same directory as the Manjore ISO image.
+
+
+
 
 ![Linux](https://github.com/nashtash/learn_ml/blob/master/assets/images/linux.jpg?raw=true)
 
