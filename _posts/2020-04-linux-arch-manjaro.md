@@ -1,1 +1,41 @@
+---
+title: "The motivation: Why even bother to learn Machine Learning?"
+last_modified_at: 2020-04
+read_time: false
+categories:
+  - Publications
+header:
+  teaser: assets/images/linux.jpg
+---
 
+
+This post provides a installation guide of Linux Arch Manjaro.
+
+
+**Linux Arch Manjaro**
+
+The Manjaro version of Linux Arch follows the KISS-principle. Where as KISS stands for Keep It Simple Supid. With Manjaro we don't need to configurate much. Most of the configuration is running smoothly in the background.
+
+
+![Machine Learning](https://github.com/nashtash/learn_ml/blob/master/assets/blog/2019_11_01/5Q5OC.png?raw=true)
+
+
+In the least complex sense, ML is a method of computer data analysis that learns from its own "experience". Once a machine learning algorithm recognizes what specific patterns look like, it can apply the knowledge on a vast scale.
+
+During the last decades, there has been great progress in ML. NLP (Natural Language Processing), a category of ML, has made substantial [progress](https://ruder.io/tracking-progress-nlp/) in the past years.
+Only five years ago the performance in key tasks stagnated and gaining [1pp](https://en.wikipedia.org/wiki/PP_(complexity)) was considered a major success. Today almost all tasks gain +10pp. This is due to deep learning. The training of deep learning, that is a category of ML, is based on word/sentence/character embeddings. Its models are collections of high dimensional vector spaces and there is no interpretation possible. It's a 'black box'.
+
+**But what is a black box anyway?** 
+
+A huge downside of using machine learning is that insights into the data and task the machine solves are hidden in more and more complex models. It's called a `Black Box!`. It doesn't uncover its internal mechanisms. In ML, the "black box" portrays models that can't be comprehended by taking a look at their parameters (for example a neural network). You need billions of numbers to understand a deep neural network, and there is no way to understand the model in its totality.
+To comprehend how the decision-making was made, one would have to look at the patterns of each of the many hundreds of trees. No matter how smart you are or how well your working memory is, that just wouldn't work. The most efficient models are usually combinations of several models `ensembles` that can't be interpreted.
+
+Nevertheless, it's important to know the mechanisms that are inside an ML model, this is where those algorithms and their engineers need to become accountable. Because humans transfer their bias to algorithms, they can create injustice, that's one reason why we need to hold algorithms and their developers accountable. This is where Interpretable Machine Learning can help. But more on this later...
+
+![The Black Box](https://github.com/nashtash/learn_ml/blob/master/assets/blog/2019_11_01/P1WaO.png?raw=true)
+
+in my view, the most important reason why you should learn ML is that you get a whole new world of new research questions for your topics. It doesn't matter if you are a social scientist, historian, linguist, data journalist, etc. ML has a lot to offer for everyone who is eager to dive in. Let's see where this will take us during the tutorial.
+Check out the next page to find out about the essential terminology and what all those terms mean.
+
+**"Replacing one machine we don’t understand with another one we don’t understand doesn’t help us"**
+D. Gerstorfer
