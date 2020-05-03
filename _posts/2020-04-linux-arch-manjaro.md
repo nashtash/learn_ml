@@ -26,8 +26,12 @@ Before you can boot from your usb, you need to change the configuration in the B
 
 **Run the Linix Arch Manjaro installation**
 
-Now yoú can restart your computer. The first pages you will see are installtion options for Linux Arch Manjaro. Its has a quite easy installation manager you have to go through.
+Now you can restart your computer. The first pages you will see are installtion options for Linux Arch Manjaro. Its has a quite easy installation manager you have to go through.
+Manjaro is quite userfriendly. You can install packages and software over the `terminal` or the `systempackage manager`. You are ready to go.
 
+Due to my extensive use of Windows Programms, I want to keep them running on my Linux, there are multiple options how you can install and run Windows Software on Linux.
+
+The next post will be about setting up an `virtual enviorment` with the Oracle VMBox Software. 
 
 
 
