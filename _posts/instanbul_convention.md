@@ -14,5 +14,5 @@ header:
 
 [![homepage][3]][4]
 
-[3]:  /assets/images/gewalt.png
+[3]:  https://www1.wdr.de/radio/wdr5/sendungen/morgenecho/gewalt-frauen-104~_v-HintergrundL.jpg
 [4]:  https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html "Redirect to homepage"
