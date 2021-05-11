@@ -12,5 +12,5 @@ author_profile: false
 
 [![homepage][3]][4]
 
-[3]:  /assets/gewalt.png
+[3]:  /assets/images/gewalt.png
 [4]:  https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html "Redirect to homepage"
