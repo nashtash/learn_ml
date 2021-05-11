@@ -1,6 +1,6 @@
 ---
-permalink: /work/
-title: "Work Examples"
+permalink: /portfolio/
+title: "Portfolio"
 taxonomy: Publications
 entries_layout: grid
 classes: wide
