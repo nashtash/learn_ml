@@ -1,5 +1,5 @@
 ---
-title: "The motivation: Why even bother to learn Machine Learning?"
+title: "Portfolio"
 last_modified_at: 2021-05-11
 read_time: false
 categories:
@@ -7,5 +7,6 @@ categories:
 header:
   teaser: assets/images/linux.jpg
 ---
+blablablabla
 
-<a href="https://www.reddit.com/submit?url={{ page.url | absolute_url | url_encode }}&title={{ page.title }}" class="btn" title="{{ site.data.ui-text[site.locale].share_on_label }} Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+Häusliche Gewalt
