@@ -2,8 +2,8 @@ main:
   - title: "Tutorial"
     url: /tutorial/
 
-  - title: "Work Examples"
-    url: /work/
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "About"
     url: /about/
