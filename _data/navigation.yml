@@ -3,5 +3,5 @@ main:
     url: /tutorial/
   - title: "About"
     url: /about/
-    title: "Work Examples"
+  - title: "Work Examples"
     url: /work/
