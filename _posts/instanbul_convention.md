@@ -6,12 +6,4 @@ categories:
   - Portfolio
 
 ---
-[![homepage][1]][2]
-
-[1]:  http://commonmark.org/help/images/favicon.png
-[2]:  http://commonmark.org "Redirect to homepage"
-
-[![homepage][3]][4]
-
-[3]:  https://www1.wdr.de/radio/wdr5/sendungen/morgenecho/gewalt-frauen-104~_v-HintergrundL.jpg
-[4]:  https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html "Redirect to homepage"
+No, this is not what you were looking for!
