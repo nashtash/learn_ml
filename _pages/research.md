@@ -10,4 +10,4 @@ This tutorial about Interpretable Machine Learning is a general introduction to 
 
 ## Tutorials
 
-[![notbremse.png](https://www1.wdr.de/nachrichten/themen/coronavirus/meldeverzug-hebelt-notbremse-aus-100.html)]
+[![notbremse.png](https://www1.wdr.de/nachrichten/themen/coronavirus/meldeverzug-hebelt-notbremse-aus-100.html)
