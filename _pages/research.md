@@ -1,5 +1,5 @@
 ---
-title: "Post"
+title: "Portfolio"
 layout: category
 permalink: /tutorial/
 taxonomy: Publications
