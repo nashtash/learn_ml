@@ -10,7 +10,8 @@ This tutorial about Interpretable Machine Learning is a general introduction to 
 
 ## Tutorials
 
-[![homepage]] 
-
-[homepage]:  http://commonmark.org/help/images/favicon.png
-[![homepage]]:  http://commonmark.org "Redirect to Homepage" 
+<figure class="half">
+    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/gewalt.png"></a>
+    <a href="/assets/images/image-filename-2-large.jpg"><img src="/assets/images/linux.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
