@@ -2,7 +2,7 @@
 title: "Portfolio"
 layout: category
 permalink: /portfolio/
-taxonomy: Publications
+taxonomy: Portfolio
 entries_layout: grid
 classes: wide
 ---
