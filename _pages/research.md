@@ -10,9 +10,10 @@ This tutorial about Interpretable Machine Learning is a general introduction to 
 
 ## work examples
 
-<figure class="third">
-	<img src="/images/gewalt.png">
-	<img src="/images/linux.jpg">
-	<img src="/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
+<figure class="half">
+    <a href="https://d1qmdf3vop2l07.cloudfront.net/enigmatic-tuba.cloudvent.net/hash-store/07a0b0a9db4aa52a86f1e92e7b6473bd.webp"></a>
+    <a href="https://github.com/nashtash/learn_ml/blob/master/assets/images/gewalt.png"><img src="/assets/images/linux.jpg"></a>
+    <a href="/assets/images/linux.jpg"><img src="/assets/images/linux.jpg"></a>
+    <a href="/assets/images/linux.jpg"><img src="/assets/images/linux.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
 </figure>
