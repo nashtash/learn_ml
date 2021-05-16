@@ -1,8 +1,8 @@
 ---
+title: Portfolio
+layout: category
 permalink: /portfolio/
-title: "Portfolio"
+taxonomy: Portfolio
 entries_layout: grid
-layout: collection
 classes: wide
 ---
-
