@@ -11,10 +11,7 @@ This tutorial about Interpretable Machine Learning is a general introduction to 
 ## work examples
 
 <figure class="half">
-    <a href="/assets/images/gewalt.png"
-    width="400" 
-    height="500">
-    <img src="/assets/images/gewalt.png"></a>
+    <a href="/assets/images/gewalt.png"><img src="/assets/images/gewalt.png"></a>
     <a href="/assets/images/linux.jpg"><img src="/assets/images/linux.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
