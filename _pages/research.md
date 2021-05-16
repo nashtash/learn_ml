@@ -13,5 +13,7 @@ This tutorial about Interpretable Machine Learning is a general introduction to 
 <figure class="half">
     <a href="/assets/images/gewalt.png"><img src="/assets/images/gewalt.png"></a>
     <a href="/assets/images/linux.jpg"><img src="/assets/images/linux.jpg"></a>
+    <a href="/assets/images/linux.jpg"><img src="/assets/images/linux.jpg"></a>
+    <a href="/assets/images/linux.jpg"><img src="/assets/images/linux.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
