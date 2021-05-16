@@ -11,7 +11,7 @@ This tutorial about Interpretable Machine Learning is a general introduction to 
 ## work examples
 
 <figure class="half">
-    <a href="https://drive.google.com/file/d/1soJAiKwRj3F7b1eiXptRzx5Anh3rOL9V/view?usp=sharing"><img src="https://drive.google.com/file/d/1soJAiKwRj3F7b1eiXptRzx5Anh3rOL9V/view?usp=sharing"></a>
+    <a href="https://www1.wdr.de/nachrichten/notbremse-104~_v-gseapremiumxl.jpg"><img src="https://www1.wdr.de/nachrichten/notbremse-104~_v-gseapremiumxl.jpg"></a>
     <a href="https://github.com/nashtash/learn_ml/blob/master/assets/images/gewalt.png"><img src="/assets/images/linux.jpg"></a>
     <a href="/assets/images/linux.jpg"><img src="/assets/images/linux.jpg"></a>
     <a href="/assets/images/linux.jpg"><img src="/assets/images/linux.jpg"></a>
