@@ -23,7 +23,3 @@ In my portfolio you can find data-driven journalism and project related work exa
 [How separatists in breakaway regions mine cryptocurrencies for terrorist financing and money laundering](https://anticoruptie.md/en/investigations/economic//how-separatists-in-breakaway-regions-mine-cryptocurrencies-for-terrorist-financing-and-money-laundering)
 
 [Kölner Weihnachtsmärkte (mapbox api not actual)](https://nashtash.github.io/markte/)
-
-[Deutschlands digitaler Trampelpfad](https://www.stern.de/digital/online/dsl-verfuegbarkeit--so-langsam-ist-das-internet-in-deutschland-8200690.html)
-
-[Deutschlands digitaler Trampelpfad](https://www.stern.de/digital/online/dsl-verfuegbarkeit--so-langsam-ist-das-internet-in-deutschland-8200690.html)
