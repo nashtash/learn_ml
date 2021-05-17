@@ -12,9 +12,9 @@ In my portfolio you can find data journalism work that has been published and pr
 <br>
  
 [Meldeverzug hebelt "Bundes-Notbremse" aus](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
-(WDR)/n
+(WDR)\n
 [Corona-Pandemie: Frauenhäuser sind überlastet ](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
-(WDR)/n
+(WDR)\n
 [Aktuelle Daten zum Stand der Insolvenzen in NRW](https://www1.wdr.de/nachrichten/wirtschaft/insolvenzzahlen-nrw-100.html)
 (WDR)
 [How separatists in breakaway regions mine cryptocurrencies for terrorist financing and money laundering](https://anticoruptie.md/en/investigations/economic//how-separatists-in-breakaway-regions-mine-cryptocurrencies-for-terrorist-financing-and-money-laundering)
