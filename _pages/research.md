@@ -12,7 +12,7 @@ In my portfolio you can find data-driven journalism and project related work exa
 
 [Meldeverzug hebelt "Bundes-Notbremse" aus](https://support.west-wind.com)
 
-[Go to the Support Web Site](https://www1.wdr.de/nachrichten/themen/coronavirus/meldeverzug-hebelt-notbremse-aus-100.html)
+[Corona-Pandemie: Frauenhäuser sind überlastet ](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
 
 [Go to the Support Web Site](https://support.west-wind.com)
 
