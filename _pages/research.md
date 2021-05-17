@@ -18,7 +18,7 @@ In my portfolio you can find data-driven journalism and project related work exa
 
 [Aktuelle Daten zum Stand der Insolvenzen in NRW](https://www1.wdr.de/nachrichten/wirtschaft/insolvenzzahlen-nrw-100.html)
 
-[Go to the Support Web Site](https://support.west-wind.com)
+[Deutschlands digitaler Trampelpfad](https://www.stern.de/digital/online/dsl-verfuegbarkeit--so-langsam-ist-das-internet-in-deutschland-8200690.html)
 
 [Go to the Support Web Site](https://support.west-wind.com)
 
