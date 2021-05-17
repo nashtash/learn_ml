@@ -14,7 +14,7 @@ In my portfolio you can find data-driven journalism and project related work exa
 
 [Corona-Pandemie: Frauenhäuser sind überlastet ](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
 
-[Go to the Support Web Site](https://support.west-wind.com)
+[Aktuelle Daten zum Stand der Insolvenzen in NRW](https://www1.wdr.de/nachrichten/wirtschaft/insolvenzzahlen-nrw-100.html)
 
 [Go to the Support Web Site](https://support.west-wind.com)
 
