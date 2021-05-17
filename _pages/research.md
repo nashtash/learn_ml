@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 layout: category
-permalink: /portfolio/
+permalink: /tutorial/
 taxonomy: Publications
 entries_layout: grid
 classes: wide
