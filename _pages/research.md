@@ -6,7 +6,7 @@ taxonomy: Publications
 entries_layout: grid
 classes: wide
 ---
-In my portfolio you can find data-driven journalism and project related work examples.
+In my portfolio you can find data journalism work that has been published and project related work examples.
 
 ### work examples
 <br>
