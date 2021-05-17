@@ -6,6 +6,7 @@ taxonomy: Publications
 entries_layout: grid
 classes: wide
 ---
+ <br>
  
 * [Meldeverzug hebelt "Bundes-Notbremse" aus](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
 (WDR)<br />
