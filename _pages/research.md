@@ -9,6 +9,8 @@ classes: wide
 In my portfolio you can find data-driven journalism and project related work examples.
 
 ### work examples
+<br>
+<br>
 
 [Meldeverzug hebelt "Bundes-Notbremse" aus](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
 
