@@ -10,7 +10,7 @@ In my portfolio you can find data-driven journalism and project related work exa
 
 ### work examples
 
-[Meldeverzug hebelt "Bundes-Notbremse" aus](https://support.west-wind.com)
+[Meldeverzug hebelt "Bundes-Notbremse" aus](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
 
 [Corona-Pandemie: Frauenhäuser sind überlastet ](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
 
