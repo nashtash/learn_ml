@@ -12,7 +12,7 @@ In my portfolio you can find data journalism work that has been published and pr
 <br>
  
 [Meldeverzug hebelt "Bundes-Notbremse" aus](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
-(WDR)\n
+(WDR)<br />
 [Corona-Pandemie: Frauenhäuser sind überlastet ](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
 (WDR)\n
 [Aktuelle Daten zum Stand der Insolvenzen in NRW](https://www1.wdr.de/nachrichten/wirtschaft/insolvenzzahlen-nrw-100.html)
