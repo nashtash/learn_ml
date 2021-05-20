@@ -8,7 +8,7 @@ classes: wide
 ---
  <br>
  
-* [Meldeverzug hebelt "Bundes-Notbremse" aus](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
+* [Meldeverzug hebelt "Bundes-Notbremse" aus](https://www1.wdr.de/nachrichten/themen/coronavirus/meldeverzug-hebelt-notbremse-aus-100.html)
 (WDR)<br />
 * [Corona-Pandemie: Frauenhäuser sind überlastet ](https://www1.wdr.de/nachrichten/corona-ueberlastete-frauenhaeuser-100.html)
 (WDR)<br />
